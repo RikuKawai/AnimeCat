@@ -1,0 +1,17 @@
+C:\Users\Riku\AppData\Local\Temporary Projects\AnimeCat\bin\Debug\AnimeCat.exe.config
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\bin\Debug\AnimeCat.exe.config
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\bin\Debug\AnimeCat.exe
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\bin\Debug\AnimeCat.pdb
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.csprojResolveAssemblyReference.cache
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.Form1.resources
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.Properties.Resources.resources
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.csproj.GenerateResource.Cache
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.exe
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.pdb
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.AboutBox1.resources
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.EasterEgg.resources
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.Form3.resources
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.Form4.resources
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.Form5.resources
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.Form6.resources
+C:\Users\Riku\Documents\Visual Studio 2013\Projects\AnimeCat\AnimeCat\obj\Debug\AnimeCat.Form7.resources
